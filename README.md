@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/multi-search-engine.svg)](https://badge.fury.io/py/multi-search-engine)
 [![Python Versions](https://img.shields.io/pypi/pyversions/multi-search-engine.svg)](https://pypi.org/project/multi-search-engine/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/developerxnoxs/SearchEngine/actions/workflows/ci.yml/badge.svg)](https://github.com/developerxnoxs/SearchEngine/actions/workflows/ci.yml)
+[![CI](https://github.com/ssannssarr/SearchEngine/actions/workflows/ci.yml/badge.svg)](https://github.com/ssannssarr/SearchEngine/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/yourusername/multi-search-engine/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/multi-search-engine)
 [![Downloads](https://pepy.tech/badge/multi-search-engine)](https://pepy.tech/project/multi-search-engine)
 
