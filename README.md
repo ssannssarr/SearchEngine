@@ -6,6 +6,8 @@
 [![CI](https://github.com/ssannssarr/SearchEngine/actions/workflows/ci.yml/badge.svg)](https://github.com/ssannssarr/SearchEngine/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/yourusername/multi-search-engine/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/multi-search-engine)
 [![Downloads](https://pepy.tech/badge/multi-search-engine)](https://pepy.tech/project/multi-search-engine)
+[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-🇮🇩-red)](README.md)
+[![English](https://img.shields.io/badge/English-🇺🇸-blue)](README.en.md)
 
 Library Python yang powerful untuk melakukan pencarian di berbagai mesin pencari dengan interface yang seragam. Mendukung Google, Bing, DuckDuckGo, Yahoo, Mojeek, dan Brave dengan fitur caching, rate limiting, dan dukungan proxy.
 
